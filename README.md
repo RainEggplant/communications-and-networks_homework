@@ -1,6 +1,6 @@
 # Communications and Networks Homework
 
-2019 年秋季学期周世东老师的《通信与网络》的部分额外作业，我做了的都在这里了。 [course project of communications-and-networks]
+2019 年秋季学期周世东老师的《通信与网络》的部分额外作业，我做了的都在这里了。 [homework of communications and networks]
 
 <details>
 <summary>一点点想说的话</summary>
